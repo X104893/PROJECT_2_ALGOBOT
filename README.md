@@ -14,6 +14,8 @@ The code is written in Py 3.0 using Google Colab
 
 must be run in googlecolab - https://colab.research.google.com/
 
+**Please use Trade_Bot_colab.ipynb in google Colab. Includes Colab code**
+
 **Libraries**
 
 import hvplot.pandas
