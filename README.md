@@ -52,6 +52,14 @@ pd.set_option('display.width', 1000)
 
 Installation Guide - **must be run in googlecolab** - https://colab.research.google.com/
 
+pip install bitfinex-tencars
+
+pip install ta
+
+pip install pandas-ta
+
+pip install finta 
+
 **Data Collection** 
 
 We used the public API Bitfinex to pull the bitcoin data form 2018 to 2022.  
